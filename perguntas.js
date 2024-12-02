@@ -21,3 +21,21 @@ criaCartao(
     'Como se diz oi em Inglês?',
     'Oi em ingles é HI (RAI)'
 )
+
+criaCartao(
+    'Lingua inglesa',
+    'qual fatores geograficos contribuem para o surgimento dos desertos?',
+    'Baixa preciítaçao anual'
+)
+
+criaCartao(
+    'Lingua inglesa',
+    'Oque e linha do equador?',
+    'e uma linha imaginaria que divide o planeta)'
+)
+
+criaCartao(
+    'Lingua inglesa',
+    'Qual e o maior pais do mundo?',
+    'russia'
+)
